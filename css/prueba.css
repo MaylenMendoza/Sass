@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background-color: #ccc; }
+
+header {
+  background-color: aquamarine; }
+  header nav {
+    text-align: center; }
+    header nav a {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      text-decoration: none; }
+      header nav a:hover {
+        color: blueviolet; }
+
+div {
+  margin-top: 30px; }
+
+footer {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: red;
+  text-align: center;
+  margin-top: 40px; }
+  footer a {
+    text-decoration: none;
+    color: black; }
